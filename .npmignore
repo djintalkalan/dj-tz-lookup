@@ -1,0 +1,14 @@
+/dist
+/ne_10m_urban_areas.*
+/node_modules
+/timezones.geojson.zip
+yarn.lock
+combined.json
+.travis.yml
+.gitignore
+pack.js
+rebuild.sh
+test.html
+test.js
+tz_template.js
+

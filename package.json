@@ -15,13 +15,14 @@
   ],
   "license": "CC0-1.0",
   "main": "tz.js",
-  "name": "tz-lookup",
+  "types": "tz.d.ts",
+  "name": "dj-tz-lookup",
   "repository": {
     "type": "git",
-    "url": "git://github.com/darkskyapp/tz-lookup.git"
+    "url": "https://github.com/djintalkalan/dj-tz-lookup"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"Print: no test specified\""
   },
-  "version": "6.1.26"
+  "version": "0.1.0"
 }
